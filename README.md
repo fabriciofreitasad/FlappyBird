@@ -1,4 +1,5 @@
-# Flappy Bird em HTML, CSS e JavaScript
+#            Flappy Bird 
+##      HTML, CSS e JavaScript
 
 Este é um projeto de recriação do jogo Flappy Bird, desenvolvido como parte do curso "Curso Web Moderno Completo com JavaScript + Projetos" da Udemy. Utiliza HTML, CSS e JavaScript para criar uma versão simplificada do jogo.
 
@@ -15,6 +16,11 @@ Este é um projeto de recriação do jogo Flappy Bird, desenvolvido como parte d
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs, etc.
+
+## Layout web
+![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/064c0c9d-6532-4ac9-b486-b4e6ead0a2ec)
+
+
 
 ## Funcionalidades Principais:
 
@@ -39,3 +45,6 @@ Introdução à animação CSS e manipulação de eventos JavaScript.
 Desenvolvimento de habilidades de resolução de problemas e pensamento algorítmico.
 Este projeto oferece aos alunos a oportunidade de consolidar seus conhecimentos teóricos em programação web através da criação de um jogo interativo e divertido. Ao final, os alunos estarão aptos a aplicar esses conceitos em projetos web mais complexos e desafiadores.
 O projeto "Flappy Bird" é uma versão simplificada e interativa do popular jogo para dispositivos móveis, desenvolvida como parte do curso "Curso Web Moderno Completo com JavaScript + Projetos" da Udemy. Utilizando tecnologias web modernas, como HTML, CSS e JavaScript, este projeto permite aos alunos explorarem conceitos fundamentais de programação
+
+## Autor:
+Fabricio Freitas. https://www.linkedin.com/in/fabricio-freitas-oliveira-645536242
