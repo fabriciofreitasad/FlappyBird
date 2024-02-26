@@ -1,12 +1,11 @@
-#            Flappy Bird 
-##      HTML, CSS e JavaScript
+# Flappy Bird 
 
 Este é um projeto de recriação do jogo Flappy Bird, desenvolvido como parte do curso "Curso Web Moderno Completo com JavaScript + Projetos" da Udemy. Utiliza HTML, CSS e JavaScript para criar uma versão simplificada do jogo.
 
 ## Como jogar
 
 1. Abra o arquivo `index.html` em seu navegador web.
-2. Clique na tela para fazer o pássaro voar e evite colidir com os canos.
+2. Aperte qualquer tecla para fazer o pássaro voar e evite colidir com os canos.
 3. Ganhe pontos à medida que passa pelos canos sem colidir.
 
 ## Requisitos
@@ -17,10 +16,15 @@ Este é um projeto de recriação do jogo Flappy Bird, desenvolvido como parte d
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs, etc.
 
+## Licença:
+[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE](https://github.com/fabriciofreitasad/FlappyBird/blob/main/LICENSE)) 
+O dscommecer é distribuído sob a licença
+o que significa que você é livre para usar, modificar e distribuir o projeto de acordo com os termos da licença.
+
 ## Layout web
 ![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/064c0c9d-6532-4ac9-b486-b4e6ead0a2ec)
 
-
+![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/0b90a746-302b-46d0-991e-75365e5d1049)
 
 ## Funcionalidades Principais:
 
@@ -28,12 +32,15 @@ Ambiente Gráfico Interativo:
 Utilizando HTML e CSS, o projeto cria uma interface gráfica envolvente que replica a estética minimalista do jogo original.
 
 Controles Intuitivos: 
+
 Com o JavaScript, implementam-se controles simples e intuitivos, permitindo ao jogador interagir com o jogo através de cliques do mouse ou toques na tela.
 
 Lógica do Jogo: 
+
 Através de algoritmos e lógica de programação em JavaScript, são definidas as regras do jogo, incluindo a movimentação do pássaro, detecção de colisões e pontuação.
 
-Animações Suaves: 
+Animações Suaves:
+ 
 Utilizando CSS e JavaScript, são criadas animações suaves para os elementos do jogo, garantindo uma experiência visual agradável e imersiva.
 
 Objetivos de Aprendizado:
