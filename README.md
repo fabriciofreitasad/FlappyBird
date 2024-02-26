@@ -18,13 +18,15 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ## Licença:
 [![NPM](https://img.shields.io/npm/l/react)]([https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE](https://github.com/fabriciofreitasad/FlappyBird/blob/main/LICENSE)) 
-O dscommecer é distribuído sob a licença
+O Flappy Bird é distribuído sob a licença
 o que significa que você é livre para usar, modificar e distribuir o projeto de acordo com os termos da licença.
 
 ## Layout web
 ![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/064c0c9d-6532-4ac9-b486-b4e6ead0a2ec)
 
 ![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/0b90a746-302b-46d0-991e-75365e5d1049)
+
+![image](https://github.com/fabriciofreitasad/FlappyBird/assets/111000422/76729713-b7be-40a8-9e35-56bc4bec9132)
 
 ## Funcionalidades Principais:
 

@@ -102,9 +102,6 @@ function Passaro(alturaJogo){
   this.setY(alturaJogo / 2)
 }
 
-
-
-
 function Progresso() {
   this.elemento = novoElemento('span','progresso')
   this.atualizarpontos = posntos => {
@@ -123,9 +120,6 @@ function Progresso() {
 //   barreiras.animar()
 //   passaro.animar()
 // }, 20)
-
-
-
 
 //Colisão na barreiras
 function estaoSobrepostos(elementoA, elementoB) {
